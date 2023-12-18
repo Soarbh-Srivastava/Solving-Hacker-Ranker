@@ -1,3 +1,6 @@
+//category: 2D-Array
+//tag: pattern Question
+
 #include <iostream>
 #include <algorithm> // for std::max
 #include <climits>

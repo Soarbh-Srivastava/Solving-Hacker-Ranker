@@ -1,3 +1,6 @@
+//category: 2D-Array
+//tag: Dynamic Array
+
 #include <bits/stdc++.h>
 
 using namespace std;
