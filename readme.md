@@ -27,14 +27,14 @@ This repository contains my solutions to the daily HackerRank challenges for the
 
 ## Daily Log
 
-### January 1, 2023
+### December 19, 2023
 - Solved Challenge 1 (Category: Array-DS, Tag: reversed array)
   - [Solution](day-1/solution1.cpp)
 
 - Solved Challenge 2 (2D-Array-DS, Tag: hourglasses array)
   - [Solution](day-1/solution2.cpp)
 
-### January 2, 2023
+### December 20, 2023
 - Solved Challenge 3 (Category: Dynamic-Array-DS, Tag: Dynamic)
   - [Solution](day-2/solution3.cpp)
 
