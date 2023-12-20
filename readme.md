@@ -28,15 +28,18 @@ This repository contains my solutions to the daily HackerRank challenges for the
 ## Daily Log
 
 ### January 1, 2023
-- Solved Challenge 1 (Category: 2D-Array, Tag: pattern Question)
-  - [Solution](day-1/question-1/solution.cpp)
-  - [Question](day-1/question-1/question.png)
-  - [Explaination](day-1/question-1/solution-explation.png)
+- Solved Challenge 1 (Category: Array-DS, Tag: reversed array)
+  - [Solution](day-1/solution1.cpp)
 
-- Solved Challenge 22 (Category: 2D-Array, Tag: Dynamic Array)
-  - [Solution](day-1/question-1/solution.cpp)
-  - [Question](day-1/question-1/question.png)
-  - [Explaination](day-1/question-1/solution-explation.jpg)
+- Solved Challenge 2 (2D-Array-DS, Tag: hourglasses array)
+  - [Solution](day-1/solution2.cpp)
+
+### January 2, 2023
+- Solved Challenge 3 (Category: Dynamic-Array-DS, Tag: Dynamic)
+  - [Solution](day-2/solution3.cpp)
+
+- Solved Challenge 4 (Category: 2D-Array-DS, Tag: Left-Rotation)
+  - [Solution](day-2/solution4.cpp)
 
 <!-- 
 - Solved Challenge 2 (Category: Data Structures, Tag: Linked Lists)

@@ -1,6 +1,4 @@
-//category: 2D-Array
-//tag: Dynamic Array
-
+// Category: Dynamic-Array-DS, Tag: Dynamic
 #include <bits/stdc++.h>
 
 using namespace std;
@@ -18,7 +16,6 @@ vector<string> split(const string &);
  *  2. 2D_INTEGER_ARRAY queries
  */
 
-//code added start
 vector<int> dynamicArray(int n, vector<vector<int>> queries) {
     vector<vector<int>> temp(n,vector<int>());
     vector<int> ans;
@@ -36,7 +33,7 @@ vector<int> dynamicArray(int n, vector<vector<int>> queries) {
     }
     return ans;
 }
-////code added End
+
 int main()
 {
     ofstream fout(getenv("OUTPUT_PATH"));
