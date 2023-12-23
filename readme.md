@@ -46,7 +46,7 @@ This repository contains my solutions to the daily HackerRank challenges for the
 
 ### Platform: GeeksForGeeks(Changed)
 ### December 23, 2023
-- Solved Challenge 3 (Category: Dynamic-Array-DS, Tag: Dynamic)
+- Solved Challenge 3 (Category: Sub array sum, Tag: GFG)
   - [Solution](day-4/SubArraySum.cpp)
   
 <!-- 
