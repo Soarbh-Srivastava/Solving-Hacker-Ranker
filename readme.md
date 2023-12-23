@@ -41,8 +41,14 @@ This repository contains my solutions to the daily HackerRank challenges for the
 - Solved Challenge 4 (Category: 2D-Array-DS, Tag: Left-Rotation)
   - [Solution](day-2/solution4.cpp)
 ### December 22, 2023
-- Solved Challenge 3 (Category: Dynamic-Array-DS, Tag: Dynamic)
+- Solved Challenge 5 (Category: Dynamic-Array-DS, Tag: Dynamic)
   - [Solution](day-3/solution5.cpp)
+
+### Platform: GeeksForGeeks(Changed)
+### December 23, 2023
+- Solved Challenge 3 (Category: Dynamic-Array-DS, Tag: Dynamic)
+  - [Solution](day-4/SubArraySum.cpp)
+  
 <!-- 
 - Solved Challenge 2 (Category: Data Structures, Tag: Linked Lists)
   - [Solution](daily-log/2023-01-01/solution.cpp)
