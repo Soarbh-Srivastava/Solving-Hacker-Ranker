@@ -6,39 +6,23 @@ class Solution
     vector<int> subarraySum(vector<int>arr, int n, long long s)
     {
         // Your code here
-        int l = 0;
-        int r = 0;
-        std::vector<int> ans;
-        
-        bool isFound = false;
-        long long sum = arr[0];
-        
-        while(r<n){
-            if(sum == s){
-                isFound =true;
-                break;
+      long long sum = arr[0];
+
+        if (sum == s) return {1, 1};
+
+        int l = 0, r = 0;
+
+        while (r < n - 1) {
+            if ((sum += arr[++r]) <= s) {
+                if (sum == s) return {l + 1, r + 1};
+            } else if (l < r) {
+                sum -= arr[l++];
+            } else {
+                sum = arr[++l];
+                r = l;
             }
-            else if(sum<s){
-                r++;
-                if(r<n){
-                sum +=arr[r];
-                }
-                
-            }
-            else{
-                sum -= arr[l];
-                l++;
-            }
-            
         }
-        if(isFound){
-            ans.push_back(l+1);
-            ans.push_back(r+1);
-            return ans;
-        }
-        else{
-            ans.push_back(-1);
-            return ans;
-        }
+
+        return {-1};
     }
 };
