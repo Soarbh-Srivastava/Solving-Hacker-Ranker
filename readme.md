@@ -46,8 +46,12 @@ This repository contains my solutions to the daily HackerRank challenges for the
 
 ### Platform: GeeksForGeeks(Changed)
 ### December 23, 2023
-- Solved Challenge 3 (Category: Sub array sum, Tag: GFG)
+- Solved Challenge 6 (Category: Sub array sum, Tag: GFG)
   - [Solution](day-4/SubArraySum.cpp)
+
+### December 26, 2023
+- Solved Challenge 7 (Category: Missing No. Array, Tag: GFG)
+  - [Solution](day-5/missInArray.cpp)
   
 <!-- 
 - Solved Challenge 2 (Category: Data Structures, Tag: Linked Lists)
