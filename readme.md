@@ -1,29 +1,15 @@
-# Daily HackerRank Challenges - Year-Long Challenge
+# Daily DSA Challenges - Year-Long Challenge
 
 This repository contains my solutions to the daily HackerRank challenges for the entire year. I aim to solve three challenges each day to enhance my problem-solving skills and deepen my understanding of algorithms and data structures.
 
 ## Table of Contents
 
 - [Introduction](#introduction)
-- [How to Use](#how-to-use)
-- [Directory Structure](#directory-structure)
 - [Daily Log](#daily-log)
-- [Categories and Tags](#categories-and-tags)
 - [Learning Goals](#learning-goals)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
-
-...
-
-## How to Use
-
-...
-
-## Directory Structure
-
-...
+- This repository contains my solutions to the daily GFG challenges for the entire year. I aim to solve challenges each day to enhance my problem-solving skills and deepen my understanding of algorithms and data structures.
 
 ## Daily Log
 
@@ -52,6 +38,10 @@ This repository contains my solutions to the daily HackerRank challenges for the
 ### December 26, 2023
 - Solved Challenge 7 (Category: Missing No. Array, Tag: GFG)
   - [Solution](day-5/missInArray.cpp)
+
+### December 27, 2023
+- Solved Challenge 7 (Category: kadane's Algorithm, Tag: GFG)
+  - [Solution](day-5/missInArray.cpp)
   
 <!-- 
 - Solved Challenge 2 (Category: Data Structures, Tag: Linked Lists)
@@ -61,11 +51,6 @@ This repository contains my solutions to the daily HackerRank challenges for the
 - ... -->
 
 ## Learning Goals
-
-...
-
-
-## License
-
-This repository is licensed under the MIT license. See [`LICENSE`](LICENSE) for details.
-...
+- Learn to solve problems using algorithms and data structures
+- Learn to solve problems using C++
+- Solve atleast 365 problems in 365 days
